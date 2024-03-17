@@ -1,0 +1,2 @@
+# InsightSoftwareHackathon2024
+Equity Management Integration
